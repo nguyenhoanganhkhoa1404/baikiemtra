@@ -61,6 +61,12 @@ padding:10px;
 
 /* HEADER */
 
+header{
+background:#ff69b4;
+color:white;
+padding:20px;
+}
+
 #header{width:685px; height:238px; background: url(../images/b_header.jpg) 0 0 no-repeat; position:relative;}
 
 #header img#slogan2{position:absolute; top:76px; left:19px}
