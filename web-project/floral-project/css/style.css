@@ -3,12 +3,6 @@ body{padding:0px; margin:0px; background:#fff; color:#616161; font:10px/14px Tah
 div, p, ul, h2, h3, h4, img{padding:0px; margin:0px;}
 ul{list-style-type:none;}
 
-header{
-background:#222;
-color:white;
-padding:30px;
-}
-
 .clear {clear: both; margin: 0px; height:0}
 
 p a{font:10px/14px Tahoma, sans-serif; color:#868e36; text-decoration:underline;}
@@ -68,9 +62,9 @@ padding:10px;
 /* HEADER */
 
 header{
-background:#ff69b4;
+background:#222;
 color:white;
-padding:20px;
+padding:30px;
 }
 
 #header{width:685px; height:238px; background: url(../images/b_header.jpg) 0 0 no-repeat; position:relative;}
