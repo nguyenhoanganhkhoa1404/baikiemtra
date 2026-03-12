@@ -33,6 +33,14 @@ p a:hover{ color:#868e36; text-decoration:none;}
 #menuPan ul.menu li a{height:16px; display:block; text-indent:-20000px; }
 #menuPan ul.menu li a:hover{height:16px;}
 
+nav ul{
+display:flex;
+gap:20px;
+list-style:none;
+background:#eee;
+padding:10px;
+}
+
 #menuPan ul.menu li.btn_1 a{width:78px; background:url(../images/btn_1.gif) 0 0 no-repeat; }
 #menuPan ul.menu li.btn_1 a:hover{width:78px; background:url(../images/btn_1_over.gif) 0 0 no-repeat;}
 
